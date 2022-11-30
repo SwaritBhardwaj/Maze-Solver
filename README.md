@@ -1,6 +1,6 @@
 # Maze-Solver
 Involving Computer vision techniques and path planning algorithm(A-Star) to find the path through a maze.
-<br>This project was a subtask of eyrc Competition
+<br>This project was a subtask of eYRC 2020-2021 Competition
 
 ## Dependencies
 
