@@ -32,3 +32,5 @@ C --> E(Saved to<br>csv folder)
 |:--:|:--:|:--:|
 | 1. Input Image| 2. Warped Image| 3. Output Image|
 
+> Green Dot ⇒ Start Point
+> Red Dot ⇒ End point
