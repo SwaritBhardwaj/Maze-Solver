@@ -34,7 +34,7 @@ C --> E(Saved to<br>csv folder)
 
 > Green Dot ⇒ Start Point<br>
 > Red Dot ⇒ End point
-
+<br>
 ## A-Star
 A*  (pronounced "A-star") is a  [graph traversal](https://en.wikipedia.org/wiki/Graph_traversal "Graph traversal")  and  [path search](https://en.wikipedia.org/wiki/Pathfinding "Pathfinding")  [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm"), which is used in many fields of computer science due to its completeness, optimality, and optimal efficiency.  One major practical drawback is its  ![O(b^d)](https://wikimedia.org/api/rest_v1/media/math/render/svg/c99d691c81f015266d1626ef381d2a1a49466fbb)  space complexity, as it stores all generated nodes in memory. Thus, in practical  [travel-routing systems](https://en.wikipedia.org/wiki/Travel-routing_system "Travel-routing system"), it is generally outperformed by algorithms which can pre-process the graph to attain better performance, as well as memory-bounded approaches; however, A* is still the best solution in many cases.
 
