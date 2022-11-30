@@ -24,13 +24,10 @@ A[Input Image] -- perspective<br>transform--> B[Warped<br>Image]
 
 B -- wall<br>detection --> C[Maze Array]
 C -- encoded<br>array --> D{A-Star}
+G(start_end_coordinates.json) --> D
 D --computed<br>path--> F((Output))
 C --> E(Saved to<br>csv folder)
 ```
-
-
- 
-
 |<img caption="Input image" src="https://user-images.githubusercontent.com/69575673/204813648-ec2010ff-5ecf-4b2d-9379-f67396e42c87.jpg" alt="drawing" width="300"/>| <img caption="Input image" src="https://user-images.githubusercontent.com/69575673/204815478-0c679391-4bc9-44b9-847c-1a8bca0cedfe.JPG" alt="drawing" width="300"/> | <img caption="Input image" src="https://user-images.githubusercontent.com/69575673/204816034-0d030d94-edab-4b34-8f31-27c1a1a9613c.JPG" alt="drawing" width="300"/> |
 |:--:|:--:|:--:|
 | 1. Input Image| 2. Warped Image| 3. Output Image|
